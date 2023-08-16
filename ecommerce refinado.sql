@@ -1,3 +1,9 @@
+-- Crie o banco de dados
+CREATE DATABASE ecommerceSQL;
+
+-- Use o banco de dados criado
+USE ecommerceSQL;
+
 -- Tabela Cliente
 CREATE TABLE Cliente (
     cliente_id INT PRIMARY KEY,
